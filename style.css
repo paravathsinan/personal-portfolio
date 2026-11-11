@@ -56,3 +56,12 @@ header li{
 .hero-content,.hero-visual{
     width: 50%;
 }
+.hero-visual img{
+    height: 300px;
+}
+.hero-title-accent{
+    color: #EEDFD1;
+}
+.hero-description{
+    width: 80%;
+}
